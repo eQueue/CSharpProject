@@ -1,0 +1,40 @@
+﻿@using System.Web;
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <script src="~/Scripts/jquery-1.10.2.js"></script> 
+
+
+    <script src="~/Common/custom-jquery.js"></script> 
+    </head>
+<body>
+    <div>
+    Test/Home/Index
+    
+    @*@User.Identity.Name*@
+
+  
+    @*@Ajax.RouteLink("Test","/Test/Home/AjaxView", new AjaxOptions { UpdateTargetId = "divResultList", InsertionMode = InsertionMode.Replace })
+    
+    @Ajax.*@
+
+    <button onclick="callAjax('/Test/AjaxTest/Index')" id="myButton">버튼</button>
+
+    </div>
+
+    <div id="divResultList">
+        Update될 영역
+
+    </div>
+
+</body>
+
+</html>

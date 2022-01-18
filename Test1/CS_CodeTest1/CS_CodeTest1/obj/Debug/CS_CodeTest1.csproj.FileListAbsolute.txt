@@ -1,0 +1,6 @@
+D:\펄어비스\CSharpTest\Test1\CS_CodeTest1\CS_CodeTest1\bin\Debug\CS_CodeTest1.exe.config
+D:\펄어비스\CSharpTest\Test1\CS_CodeTest1\CS_CodeTest1\bin\Debug\CS_CodeTest1.exe
+D:\펄어비스\CSharpTest\Test1\CS_CodeTest1\CS_CodeTest1\bin\Debug\CS_CodeTest1.pdb
+D:\펄어비스\CSharpTest\Test1\CS_CodeTest1\CS_CodeTest1\obj\Debug\CS_CodeTest1.csprojResolveAssemblyReference.cache
+D:\펄어비스\CSharpTest\Test1\CS_CodeTest1\CS_CodeTest1\obj\Debug\CS_CodeTest1.exe
+D:\펄어비스\CSharpTest\Test1\CS_CodeTest1\CS_CodeTest1\obj\Debug\CS_CodeTest1.pdb
