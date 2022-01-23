@@ -18,5 +18,10 @@ namespace WebApplication2.Areas.Test.Controllers
         {
             return PartialView();
         }
+
+        public ActionResult Error()
+        {
+            return View();
+        }
     }
 }
